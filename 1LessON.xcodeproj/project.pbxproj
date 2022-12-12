@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B24C21D29467AB700A6A06C /* Google-Chrome-Logo-2011-2014.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B24C21C29467AB700A6A06C /* Google-Chrome-Logo-2011-2014.png */; };
 		4B250D74292664D00010B0AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B250D73292664D00010B0AD /* AppDelegate.swift */; };
 		4B250D76292664D00010B0AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B250D75292664D00010B0AD /* SceneDelegate.swift */; };
 		4B250D78292664D00010B0AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B250D77292664D00010B0AD /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4B24C21C29467AB700A6A06C /* Google-Chrome-Logo-2011-2014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Google-Chrome-Logo-2011-2014.png"; path = "../../../../Downloads/Google-Chrome-Logo-2011-2014.png"; sourceTree = "<group>"; };
 		4B250D70292664D00010B0AD /* 1LessON.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 1LessON.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B250D73292664D00010B0AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B250D75292664D00010B0AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		4B250D67292664D00010B0AD = {
 			isa = PBXGroup;
 			children = (
+				4B24C21C29467AB700A6A06C /* Google-Chrome-Logo-2011-2014.png */,
 				4B250D72292664D00010B0AD /* 1LessON */,
 				4B250D89292664D40010B0AD /* 1LessONTests */,
 				4B250D93292664D40010B0AD /* 1LessONUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B24C21D29467AB700A6A06C /* Google-Chrome-Logo-2011-2014.png in Resources */,
 				4B250D80292664D40010B0AD /* LaunchScreen.storyboard in Resources */,
 				4B250D7D292664D40010B0AD /* Assets.xcassets in Resources */,
 				4B250D7B292664D00010B0AD /* Main.storyboard in Resources */,
